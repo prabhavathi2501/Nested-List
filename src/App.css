@@ -1,0 +1,20 @@
+.submenu{
+  display: none;
+}
+ul{
+  cursor: pointer;
+  font-size: 25px;
+  color:blueviolet
+}
+li{
+  cursor: pointer;
+  font-size: 25px;
+
+}
+.main{
+  margin: 20px 40px;
+}
+.nest{
+  margin: 20px 40px;
+  color: blue;
+}
